@@ -1,0 +1,27 @@
+# Lamp Simulation Page
+
+Welcome to our Lamp Simulation Page! Here, you can experience the visual representation of a lamp in different states.
+
+## Lamp States
+
+### On
+![Lamp On](lamp_on.jpg)
+- When the lamp is on, it emits a warm glow, illuminating its surroundings. Click the button below to turn the lamp on.
+
+[Turn On](#)
+
+### Off
+![Lamp Off](lamp_off.jpg)
+- In the off state, the lamp is inactive, and no light is emitted. Click the button below to turn the lamp off.
+
+[Turn Off](#)
+
+### Breaking
+![Lamp Breaking](lamp_breaking.gif)
+- Oops! Looks like the lamp is breaking. Witness the dramatic visual of the lamp shattering into pieces. Click the button below to experience the lamp breaking.
+
+[Break Lamp](#)
+
+## Enjoy the Simulation!
+
+Explore the different states of the lamp by interacting with the buttons provided above. Have fun!
