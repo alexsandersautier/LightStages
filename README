@@ -1,10 +1,10 @@
-# Lamp Simulation Page
+#Lamp Simulation Page
 
 Welcome to our Lamp Simulation Page! Here, you can experience the visual representation of a lamp in different states.
 
-## Lamp States
+##Lamp States
 
-### On
+###On
 ![Lamp On](lamp_on.jpg)
 - When the lamp is on, it emits a warm glow, illuminating its surroundings. Click the button below to turn the lamp on.
 
